@@ -1,0 +1,10 @@
+{
+"Example Skull":{
+	"vtf":"hud/leaderboard_dead.vtf",
+	"vmt":"hud/leaderboard_dead.vmt"
+	},
+"Example Numbers":{
+	"vtf":"sprites/numbers.vtf",
+	"vmt":"sprites/numbers.vmt"
+	}
+}
